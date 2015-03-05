@@ -11,7 +11,7 @@
     <packaging>jar</packaging>
     <groupId>org.webjars</groupId>
     <artifactId>ui-router-extras</artifactId>
-    <version>0.0.13-SNAPSHOT</version>
+    <version>0.0.13</version>
     <name>ui-router-extras</name>
     <description>WebJar for ui-router-extras</description>
     <url>http://github.com/christopherthielen/ui-router-extras/</url>
@@ -61,7 +61,7 @@
         <url>http://github.com/webjars/ui-router-extras</url>
         <connection>scm:git:https://github.com/webjars/ui-router-extras.git</connection>
         <developerConnection>scm:git:https://github.com/webjars/ui-router-extras.git</developerConnection>
-        <tag>HEAD</tag>
+        <tag>ui-router-extras-0.0.13</tag>
     </scm>
 
     <dependencies>
